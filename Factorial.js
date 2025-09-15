@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 )
 
 
-
+unction mainMenu(){
 console.log("1. say hello");
   console.log("2.compute factorial");
    console.log("3.exit");
@@ -47,3 +47,4 @@ if(isNaN(num) || num<0){
    }
    }
    )
+}
