@@ -43,8 +43,9 @@ if(isNaN(num) || num<0){
    }else {
     console.log("invalid choice. please try again");
 
-    
+    mainMenu();
    }
    }
    )
 }
+  mainMenu();
