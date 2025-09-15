@@ -38,10 +38,12 @@ if(isNaN(num) || num<0){
     });
     
    }else if (choice === "3"){
-    console.log("exit");
+    console.log("Exiting program... Goodbye");
+    rl.close();
    }else {
     console.log("invalid choice. please try again");
 
+    
    }
    }
    )
