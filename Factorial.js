@@ -1,1 +1,1 @@
-console.log("Factorial application");
+console.log("factorial application");
